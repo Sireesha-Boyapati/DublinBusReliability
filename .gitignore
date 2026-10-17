@@ -1,0 +1,12 @@
+# Private configuration
+.env
+.env.*
+
+# Javascript packages
+node_modules/
+
+# Collected data
+data/
+
+# Log files
+*.log
